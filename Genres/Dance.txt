@@ -1,0 +1,20 @@
+Dance:
+	Alternative Dance:
+		New Rave
+		Alternative Dance General
+	
+	EDM (Shortcut)
+	
+	Dance-Pop
+	
+	Dance-Punk
+	
+	Disco:
+		Boogie
+		Electro-Disco
+		Euro-Disco
+		Nu-Disco
+		Disco General
+
+
+	Dance General

@@ -1,0 +1,105 @@
+Regional Music:
+
+	African Music:
+		African Folk Music
+		Afro-Jazz (Shortcut)
+		Central African Music
+		North African Music:
+			Amazigh Music:
+				Tuareg Music
+				Amazigh Music General
+			North African Music General
+		Northeastern African Music:
+			Ethiopic Music
+			Northeastern African Music General
+		Southern African Music
+		West African Music:
+			Afrobeat
+			Afro-Funk
+			Mande Music
+			West African Music General
+		African Music General
+		
+	Arabic Music
+		
+	Brazilian Music:
+		Bossa nova
+		MPB
+		Samba
+		Samba-jazz
+		Brazilian Music General
+		
+	Caribbean Music:
+		Cuban Music
+		Jamaican Music:
+			Dancehall
+			Reggae:
+				Dub
+				Pop Reggae
+				Roots Reggae
+				Reggae General
+			Jamaican Music General
+		Caribbean Music General
+		
+	Chanson:
+		Chanson à texte
+		Nouvelle chanson française
+		Chanson General
+		
+	Christian Liturgical Music
+		
+	East Asian Music:
+		East Asian Classical Music
+		East Asian Folk Music
+		Japanese Music
+		East Asian Music General
+	
+	Hispanic Music:
+		Hispanic American Music:
+			Cuban Music (Shortcut)
+			Hispanic American Folk Music
+			Latin Alternative
+			Latin Electronic (Shortcut)
+			Latin Jazz (Shortcut)
+			Latin Pop (Shortcut)
+			Latin Rock
+			Nueva canción latinoamericana
+			Reggaetón
+			Hispanic American Music General
+		Spanish Music:
+			Flamenco:
+				Flamenco nuevo
+				Flamenco General
+			Spanish Music General
+		Hispanic Music General
+		
+	Indigenous American Music	
+	
+	Jewish Music
+
+	Northern American Music:
+		Americana (Shortcut)
+		American Folk Music (Shortcut)
+		American Primitivism (Shortcut)
+		Country (Shortcut)
+		Gospel (Shortcut)
+		Roots Rock
+		Northern American Music General
+		
+	Polyphonic Chant
+
+	South Asian Music:
+		South Asian Classical Music
+		South Asian Music General
+		
+	Southeast Asian Music
+
+	Traditional Folk Music (Shortcut)
+	
+	Turkic-Mongolic Traditional Music
+	
+	West Asian Music:
+		Turkish Music
+		West Asian Music General
+
+	Regional Music General

@@ -1,0 +1,23 @@
+Classical Music:
+	Western Classical Music:
+		Baroque Music
+		Chamber Music
+		Choral
+		Cinematic Classical
+		Classical Period
+		Medieval Classical Music
+		
+		Modern Classical:
+			Impressionism
+			Minimalism
+			Post-Minimalism
+			Serialism
+			Modern Classical General
+		
+		Opera
+		Orchestral
+		Renaissance Music
+		Romanticism
+		Western Classical Music General
+
+	Classical Music General

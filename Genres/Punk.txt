@@ -1,0 +1,84 @@
+Punk:
+
+	Art Punk
+	
+	Digital Hardcore (Shortcut)
+	
+	Emo:
+		Emocore
+		Emo-Pop
+		Midwest Emo
+		Screamo:
+			Emoviolence
+			Screamo General
+		Emo General
+	
+	Folk Punk
+	
+	Hardcore [Punk]:
+		Grindcore:
+			Cybergrind
+			Deathgrind
+			Goregrind
+			Grindcore General
+			
+		Hardcore Punk:
+			Beatdown Hardcore
+			Crossover Thrash
+			Crust Punk
+			D-Beat
+			Japanese Hardcore
+			Melodic Hardcore
+			New York Hardcore
+			Noisecore
+			Powerviolence
+			Thrashcore
+			Hardcore Punk General
+			
+		Metalcore:
+			Deathcore
+			Mathcore
+			Melodic Metalcore
+			Metalcore General
+		
+		Post-Hardcore:
+			Emocore (Shortcut)
+			Screamo (Shortcut)
+			Post-Hardcore General
+		
+		Sasscore
+		
+		Trancecore
+		
+		Hardcore [Punk] General
+		
+	Post-Punk:
+		Coldwave
+		Dance-Punk
+		Gothic Rock:
+			Deathrock
+			Gothic Rock General
+		No Wave
+		Post-Punk Revival
+		Post-Punk General
+	
+	Punk Rock:
+		Anarcho-Punk
+		Cowpunk
+		Deathrock (Shortcut)
+		Garage Punk
+		Hardcore Punk (Shortcut)
+		Horror Punk
+		Oi!
+		Pop Punk
+		Psychobilly
+		Punk Blues
+		Queercore
+		Riot Grrrl
+		Ska Punk (Shortcut)
+		Skate Punk
+		Punk Rock General
+		
+	Synth Punk
+	
+	Punk General

@@ -1,0 +1,98 @@
+Pop:
+	
+	Adult Contemporary
+	
+	Alt-Pop
+	
+	Ambient Pop
+	
+	Art Pop
+	
+	Baroque Pop
+	
+	Bitpop (Shortcut)
+	
+	Blue-Eyed Soul
+	
+	Boy Band
+	
+	City Pop
+	
+	Classical Crossover
+	
+	Country Pop (Shortcut)
+	
+	Dance-Pop (Shortcut)
+	
+	Easy Listening:
+		Exotica
+		Lounge
+		Space Age Pop
+		Easy Listening General
+		
+	Electropop (Shortcut)
+	
+	Europop
+	
+	Folk Pop (Shortcut)
+	
+	French Pop
+	
+	Indie Pop:
+		Bedroom Pop
+		Chamber Pop
+		Twee Pop
+		Indie Pop General
+		
+	Jazz Pop
+	
+	J-Pop
+	
+	Kayōkyoku:
+		Idol kayō
+		Kayōkyoku General
+		
+	K-Pop
+	
+	Latin Pop
+	
+	New Music
+	
+	New Romantic
+	
+	Pop Reggae
+	
+	Pop Rock:
+		Beat Music
+		Britpop
+		Jangle Pop
+		Piano Rock
+		Power Pop
+		Soft Rock
+		Twee Pop (Shortcut)
+		Yacht Rock
+		Pop Rock General
+		
+	Pop Soul:
+		Motown Sound
+		Pop Soul General
+
+	Progressive Pop
+	
+	Psychedelic Pop
+
+	Shibuya-kei
+	
+	Sophisti-Pop
+	
+	Sunshine Pop
+	
+	Synthpop (Shortcut)
+	
+	Teen Pop
+	
+	Traditional Pop:
+		Standards
+		Traditional Pop General
+
+	Pop General

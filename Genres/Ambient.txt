@@ -1,0 +1,13 @@
+Ambient:
+	Ambient Dub
+	
+	Dark Ambient:
+		Black Ambient
+		Ritual Ambient
+		Dark Ambient General
+		
+	Space Ambient
+	
+	Tribal Ambient
+	
+	Ambient General

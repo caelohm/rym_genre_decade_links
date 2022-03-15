@@ -1,0 +1,155 @@
+Rock:
+	
+	Acoustic Rock
+	
+	Alternative Rock:
+		Alternative Dance (Shortcut)
+		Baggy / Madchester
+		Britpop (Shortcut)
+		Dream Pop
+		Emo-Pop (Shortcut)
+		Grunge
+		Indie Rock:
+			Dunedin Sound
+			Garage Rock Revival
+			Indie Surf
+			Lo-Fi / Slacker Rock
+			Midwest Emo (Shortcut)
+			New Rave (Shortcut)
+			Post-Punk Revival (Shortcut)
+			Slowcore
+			Indie Rock General
+		Jangle Pop (Shortcut)
+		J-Rock
+		Noise Pop
+		Post-Grunge
+		Shoegaze
+		Alternative Rock General
+	
+	AOR
+	
+	Art Punk (Shortcut)
+	
+	Art Rock
+	
+	Blues Rock:
+		Boogie Rock
+		Blues Rock General
+		
+	Christian Rock
+	
+	Comedy Rock (Shortcut)
+	
+	Country Rock
+	
+	Dark Cabaret
+	
+	Deutschrock
+	
+	Emo (Shortcut)
+
+	Experimental Rock:
+		Avant-Prog:
+			Rock in Opposition
+			Zeuhl
+			Avant-Prog General
+		Brutal Prog
+		Krautrock
+		No Wave
+	Experimental Rock General
+	
+	Folk Rock:
+		British Folk Rock
+		Celtic Rock
+		Folk Rock General
+		
+	Funk Rock:
+		Funk Metal (Shortcut)
+		Funk Rock General
+	
+	Garage Rock:
+		Garage Punk (Shortcut)
+		Garage Rock Revival (Shortcut)
+		Garage Rock General
+		
+	Glam Rock
+	
+	Hardcore [Punk] (Shortcut)
+	
+	Hard Rock:
+		Glam Metal
+		Heavy Psych (Shortcut)
+		Stoner Rock (Shortcut)
+		Hard Rock General
+		
+	Heartland Rock
+
+	Industrial Rock (Shortcut)
+	
+	Jam Band
+	
+	Jazz-Rock
+	
+	Latin Rock (Shortcut)
+	
+	Math Rock
+	
+	Metal (Shortcut)
+	
+	Mod
+	
+	New Wave:
+		Neue Deutsche Welle
+		New Romantic
+		New Wave General
+		
+	Noise Rock
+
+	Pop Rock (Shortcut)
+	
+	Post-Punk (Shortcut)
+	
+	Post-Rock
+	
+	Progressive Rock:
+		Avant-Prog (Shortcut)
+		Brutal Prog (Shortcut)
+		Canterbury Scene
+		Neo-Prog
+		Symphonic Prog
+		Progressive Rock General
+		
+	Psychedelic Rock (Shortcut)
+		
+	Pub Rock
+	
+	Punk Rock (Shortcut)
+	
+	Rap Rock
+	
+	Rock & Roll:
+		Rockabilly:
+			Psychobilly
+			Rockabilly General
+		Rock & Roll General
+		
+	Rock Opera
+	
+	Rock urbano español
+	
+	Roots Rock (Shortcut)
+	
+	Southern Rock
+	
+	Surf Music:
+		Indie Surf
+		Surf Rock
+		Surf Music General
+		
+	Symphonic Rock
+	
+	Visual kei
+	
+	Zolo
+
+	Rock General

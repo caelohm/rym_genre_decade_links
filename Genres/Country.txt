@@ -1,0 +1,22 @@
+Country:
+
+	Alt-Country:
+		Gothic Country
+		Alt-Country General
+		
+	Americana
+	
+	Bluegrass
+	
+	Contemporary Country
+	
+	Country Pop
+	
+	Honky Tonk
+	
+	Progressive Country
+	
+	Traditional Country
+	
+	
+	Country General

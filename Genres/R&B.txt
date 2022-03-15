@@ -1,0 +1,36 @@
+R&B:
+	Blue-Eyed Soul (Shortcut)
+	
+	Boogie (Shortcut)
+	
+	Contemporary R&B:
+		Alternative R&B
+		New Jack Swing
+		Contemporary R&B General
+		
+	Funk:
+		Acid Jazz
+		Afrobeat
+		Afro-Funk
+		Jazz-Funk
+		Synth Funk
+		Funk General
+		
+	New Orleans R&B
+	
+	Rhythm & Blues
+	
+	Soul:
+		Country Soul
+		Deep Soul
+		Neo-Soul
+		Philly Soul
+		Pop Soul:
+			Motown Sound
+			Pop Soul General
+		Psychedelic Soul
+		Smooth Soul
+		Southern Soul
+		Soul General
+
+	R&B General

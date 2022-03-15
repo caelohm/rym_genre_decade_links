@@ -1,0 +1,28 @@
+Psychedelia:
+
+	Neo-Psychedelia:
+		Hypnagogic Pop
+		Paisley Underground
+		Space Rock Revival
+		Neo-Psychedelia General
+		
+	Psychedelic Folk:
+		Freak Folk
+		Free Folk
+		Psychedelic Folk General
+		
+	Psychedelic Pop
+	
+	Psychedelic Rock:
+		Acid Rock
+		Heavy Psych
+		Space Rock:
+			Space Rock Revival
+			Space Rock General
+		Psychedelic Rock General
+	
+	Psychedelic Soul
+	
+	Stoner Rock
+
+	Psychedelia General

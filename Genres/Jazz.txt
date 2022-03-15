@@ -1,0 +1,55 @@
+Jazz: 
+	Afro-Jazz
+	
+	Arabic Jazz
+	
+	Avant-Garde Jazz:
+		Experimental Big Band
+		Free Jazz:
+			European Free Jazz
+			Free Jazz General
+		Spiritual Jazz
+		Avant-Garde Jazz General
+		
+	Bebop
+	
+	Big Band:
+		Experimental Big Band
+		Progressive Big Band
+		Big Band General
+	
+	Chamber Jazz
+	
+	Cool Jazz
+	
+	Dark Jazz
+	
+	ECM Style Jazz
+	
+	Hard Bop
+	
+	Jazz-Funk
+	
+	Jazz Fusion
+	
+	Latin Jazz:
+		Afro-Cuban Jazz
+		Latin Jazz General
+		
+	Modal Jazz
+	
+	Post-Bop
+	
+	Samba-jazz
+	
+	Smooth Jazz
+	
+	Soul Jazz
+	
+	Swing
+	
+	Third Stream
+	
+	Vocal Jazz
+	
+	Jazz General

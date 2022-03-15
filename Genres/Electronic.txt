@@ -1,0 +1,76 @@
+Electronic:
+	Bit Music
+
+	Bitpop
+
+	Downtempo:
+		Trip Hop
+		Downtempo General
+
+	Dungeon Synth
+
+	Electroacoustic:
+		EAI
+		Musique concrète
+		Electroacoustic General
+
+	Electro-Industrial:
+		Dark Electro
+		Electro-Industrial General
+
+	Electronic Dance Music (Shortcut)
+
+	Electropop
+
+	Folktronica
+
+	Glitch
+
+	Glitch Hop
+
+	Glitch Pop
+
+	Horror Synth
+
+	IDM
+
+	Illbient
+
+	Indietronica:
+		Chillwave
+		Indietronica General
+
+	Latin Electronic
+
+	Minimal Wave:
+		Minimal Synth
+		Minimal Wave General
+
+	Nu Jazz
+
+	Progressive Electronic:
+		Berlin School
+		Progressive Electronic General
+
+	Psybient:
+		Futurepop (Shortcut)
+		Psybient General
+
+	Synthpop:
+		Futurepop (Shortcut)
+		Synthpop General
+
+	Synth Punk
+
+	Synthwave:
+		Darksynth
+		Synthwave General
+
+	Vapor:
+		Dreampunk
+		Future Funk
+		Vaporwave
+		Vapor General
+
+
+	Electronic General

@@ -1,0 +1,41 @@
+MISC:
+	Musical Theatre and Entertainment:
+		Show Tunes
+		Musical Theatre and Entertainment General
+		
+	New Age:
+		Neoclassical New Age
+		New Age General
+		
+	Ska:
+		Third Wave Ska:
+			Ska Punk
+			Third Wave Ska General
+		Ska General
+		
+	Soundtracks:
+		Film Soundtrack:
+			Film Score
+			Film Soundtrack General
+		Library Music
+		Television Music
+		Video Game Music
+		Soundtracks General
+		
+	Spoken Word:
+		Poetry
+		Spoken Word General
+
+	A cappella
+	
+	Childrens Music
+	
+	Holiday Music
+	
+	Mashup
+	
+	Musical Parody
+	
+	Novelty
+	
+	Satire

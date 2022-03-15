@@ -1,0 +1,103 @@
+Metal:
+
+	Alternative Metal:
+		Funk Metal
+		Neue Deutsche Härte (Shortcut)
+		Nu Metal
+		Rap Metal
+		Alternative Metal General
+		
+	Avant-Garde Metal
+	
+	Black Metal:
+		Atmospheric Black Metal:
+			Blackgaze
+			Atmospheric Black Metal General
+		Depressive Black Metal
+		Melodic Black Metal
+		Pagan Black Metal
+		Symphonic Black Metal
+		War Metal
+		Black Metal General
+		
+	Death Metal:
+		Brutal Death Metal:
+			Slam Death Metal
+			Brutal Death Metal General
+		Death 'n' Roll
+		Deathgrind
+		Melodic Death Metal
+		Technical Death Metal
+		Death Metal General
+		
+	Doom Metal:
+		Death Doom Metal
+		Funeral Doom Metal
+		Traditional Doom Metal:
+			Epic Doom Metal
+			Traditional Doom Metal General
+		Doom Metal General
+		
+	Drone Metal
+	
+	Folk Metal:
+		Celtic Metal
+		Folk Metal General
+		
+	Gothic Metal
+	
+	Grindcore:
+		Cybergrind
+		Deathgrind
+		Goregrind
+		Grindcore General
+		
+	Groove Metal
+	
+	Heavy Metal:
+		NWOBHM
+		Speed Metal
+		US Power Metal
+		Heavy Metal General
+		
+	Industrial Metal:
+		Cyber Metal (Shortcut)
+		Neue Deutsche Härte (Shortcut)
+		Industrial Metal General (Shortcut)
+		
+	Metalcore:
+		Deathcore
+		Mathcore
+		Melodic Metalcore
+		Metalcore General
+
+	Neoclassical Metal
+	
+	Post-Metal:
+		Atmospheric Sludge Metal
+		Post-Metal General
+		
+	Power Metal
+	
+	Progressive Metal:
+		Djent
+		Progressive Metal General
+		
+	Sludge Metal:
+		Atmospheric Sludge Metal
+		Sludge Metal General
+		
+	Southern Metal
+	
+	Stoner Metal
+	
+	Symphonic Metal
+	
+	Thrash Metal:
+		Crossover Thrash
+		Technical Thrash Metal
+		Thrash Metal General
+	
+	Viking Metal
+
+	Metal General

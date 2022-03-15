@@ -1,0 +1,48 @@
+Folk:
+
+	Contemporary Folk:
+		American Primitivism
+		Anti-Folk
+		Avant-Folk
+		Canzone d'autore
+		Chamber Folk
+		Folk Pop
+		Indie Folk
+		Neofolk:
+			Dark Folk
+			Neofolk General
+		Nueva canción
+		Progressive Folk
+		Psychedelic Folk:
+			Freak Folk
+			Free Folk
+			Psychedelic Folk General
+		Contemporary Folk General
+
+	Traditional Folk Music:
+		African Folk Music
+		American Folk Music:
+			Country Blues
+			American Folk Music General
+		Gospel
+		Traditional Country (Shortcut)
+		Traditional Folk Music General
+
+	East Asian Folk Music
+
+	European Folk Music:
+		Balkan Folk Music
+		Celtic Folk Music:
+			Irish Folk Music
+			Celtic Folk Music General
+		English Folk Music
+		French Folk Music
+		Neo-Medieval Folk
+		Nordic Folk Music
+		Slavic Folk Music
+		European Folk Music General
+
+	Hispanic American Folk Music
+
+
+	Folk General

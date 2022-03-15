@@ -1,0 +1,73 @@
+Electronic Dance Music:
+
+	Breakbeat:
+		Big Beat
+		Breakbeat Hardcore
+		Breakbeat General
+
+	Deconstructed Club
+
+	Drum and Bass
+
+	Dubstep
+
+	EBM:
+		Aggrotech
+		Futurepop
+		EBM General
+
+	Electro
+
+	Electroclash
+
+	Eurodance
+
+	Electro-Disco (Shortcut)
+
+	Footwork
+
+	Future Bass
+
+	Grime
+
+	Hardcore [EDM]:
+		Breakbeat Hardcore (Shortcut)
+		Breakcore
+		Digital Hardcore
+		Hardcore [EDM] General
+
+	House:
+		Acid House
+		Ambient House
+		Deep House
+		Electro House
+		Future Funk
+		Hip House
+		Microhouse
+		Nu-Disco (Shortcut)
+		Outsider House
+		Progressive House
+		Tech House
+		House General
+
+	Techno:
+		Acid Techno
+		Ambient Techno
+		Detroit Techno
+		Industrial Techno
+		Minimal Techno:
+			Dub Techno
+			Minimal Techno General
+		Techno General
+
+	Trance:
+		Psytrance
+		Trance General
+
+	UK Bass
+
+	UK Garage
+
+	Wonky
+
+	Electronic Dance Music General

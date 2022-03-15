@@ -1,0 +1,40 @@
+Experimental:
+	Drone
+
+	Electroacoustic (Shortcut)
+
+	Free Improvisation:
+		EAI (Shortcut)
+		Free Improvisation General
+
+	Glitch (Shortcut)
+
+	Indeterminacy
+
+	Industrial:
+		Power Electronics:
+			Death Industrial
+			Power Electronics General
+		Industrial General
+
+	Noise:
+		Harsh Noise
+		Power Electronics (Shortcut)
+		Power Noise
+		Noise General
+
+	Plunderphonics
+
+	Reductionism:
+		Onkyo
+		Reductionism General
+
+	Sound Art
+
+	Sound Collage
+
+	Tape Music
+
+	Turntable Music
+
+	Experimental General
