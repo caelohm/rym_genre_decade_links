@@ -35,23 +35,23 @@ There are improvements to be made. Using this link tree will hopefully limit the
 
 # FAQ (that nobody asked for):
 
-***What is the number in front of every .txt file?***
+<ins>***What is the number in front of every .txt file?***</ins>
 
 That is how many albums are supposedly contained in that genre (according to the genre page for that genre in rateyourmusic). Sort by the name of the .txt file, you get a general idea of which genres are more popular than others.
 
-***Why do I care about genres? Why do I care about decade charts?***
+<ins>***Why do I care about genres? Why do I care about decade charts?***</ins>
 
 Because telling someone to check out rateyoumusic leads to them just looking at Best Albums in EVERY GENRE of ALL TIME. That's a shit ton of albums, and won't give enough options. Genre and Age filters help new and experienced users narrow in on what they like, and what they don't like. Giving new users one chart of albums they should like because they're the best of everything combined ultimately leads to disappointment. Or, a user searching their favorite artist and realizing their favorite album is terribly rated turns them off as well. Those situations are very important to avoid, and that is what I've attempted to do.
 
-***Why are there folders?***
+<ins>***Why are there folders?***</ins>
 
 Each folder represents a genre that contains sub-genres.
 
-***Why do folders contain a .txt file with the keyword "General" at the end of the file name?***
+<ins>***Why do folders contain a .txt file with the keyword "General" at the end of the file name?***</ins>
 
 "General" .txt files have the same name as the folder they are contained in because they are the charts for the genre that contains every sub-genre in that folder and the albums classified as part of the folder genre but not any of the sub-genres.
 
-***What are "Exclusive" charts contained in "General" keyword text documents?***
+<ins>***What are "Exclusive" charts contained in "General" keyword text documents?***</ins>
 
 Exclusive charts are charts that exclude every sub-genre that is big enough and has been made into it's own .txt file within that folder. Now remember that I said I did not make .txt files for sub-genres that were too small. Those sub-genres now show up in the "Exclusive" charts I have created along with the folder genre.
 
