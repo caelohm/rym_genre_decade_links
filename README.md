@@ -55,6 +55,6 @@ Each folder represents a genre that contains sub-genres.
 
 Exclusive charts are charts that exclude every sub-genre that is big enough and has been made into it's own .txt file within that folder. Now remember that I said I did not make .txt files for sub-genres that were too small. Those sub-genres now show up in the "Exclusive" charts I have created along with the folder genre.
 
-***How do I open the links?
+***How do I open the links?***
 
 If you open a .txt file and cannot open the links by clicking on them, that is a fault of your .txt application. For windows, I recommend Notepad++. I don't know what Mac or Linux .txt editors allow this functionality.
