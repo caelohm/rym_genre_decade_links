@@ -33,7 +33,7 @@ rateyourmusic's GUI is good, but in my view needs some improvements. I mean no d
 
 There are improvements to be made. Using this link tree will hopefully limit the number of pages you load on the website.
 
-# FAQ (that nobody asked for):
+# FAQ:
 
 <ins>***What is the number in front of every .txt file?***</ins>
 
